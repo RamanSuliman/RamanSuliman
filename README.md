@@ -7,8 +7,8 @@
 - 🤔 I’m looking for help with getting my dream job 👨‍💻
 - 💬 Ask me anything about Java and web application.
 - 📫 How to reach me: raman.suliman@outlook.com | [LinkedIn](https://github.com/RamanSuliman/// "Raman on LinkedIn")
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can break dance 
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I can break dance.
 
 
 ### Languages and Tools
